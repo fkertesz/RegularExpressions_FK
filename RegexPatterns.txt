@@ -1,0 +1,7 @@
+\b(g|G)loom[a-zA-Z]*\b
+\b(h|H)aunt[a-zA-Z]*\b
+\b(m|M)yster[a-zA-Z]*\b
+\b(f|F)orebod[a-zA-Z]*\b
+\b(m|M)elanchol[a-zA-Z]*\b
+\b(t|T)error[a-zA-Z]*\b
+\b(d|D)esolat[a-zA-Z]*\b
