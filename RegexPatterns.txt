@@ -1,7 +1,7 @@
-\b(g|G)loom[a-zA-Z]*\b
-\b(h|H)aunt[a-zA-Z]*\b
-\b(m|M)yster[a-zA-Z]*\b
-\b(f|F)orebod[a-zA-Z]*\b
-\b(m|M)elanchol[a-zA-Z]*\b
-\b(t|T)error[a-zA-Z]*\b
-\b(d|D)esolat[a-zA-Z]*\b
+\b(g|G)loom[a-z]*\b
+\b(h|H)aunt[a-z]*\b
+\b(m|M)yster[a-z]*\b
+\b(f|F)orebod[a-z]*\b
+\b(m|M)elanchol[a-z]*\b
+\b(t|T)error[a-z]*\b
+\b(d|D)esolat[a-z]*\b
